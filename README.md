@@ -6,7 +6,7 @@
 
 <p align="center">A curated awesome list of tech folks, communities and much more. by Papuan Coders</p>
 
-<p align="center">🌟 Interested in contributing? Please check our <a href="https://github.com/antheiz/made-in-papua/blob/master/contributing.md">contribution guidelines</a>.</p>
+<p align="center">🌟 Interested in contributing or adding your own name? Please check our <a href="https://github.com/antheiz/made-in-papua/blob/master/contributing.md">contribution guidelines</a>.</p>
 
 ---
 
