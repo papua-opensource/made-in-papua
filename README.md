@@ -1,3 +1,8 @@
+<br>
+<p align=center>
+ <img src="https://github.com/antheiz/made-in-papua/blob/master/papua-map.png" alt="Papua Map" width="150" />
+</p>
+
 # <p align="center"> Made in Papua </p>
 
 A curated awesome list of tech folks, resources, communities and more by Ghanaians.
